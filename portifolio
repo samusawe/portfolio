@@ -1,0 +1,45 @@
+<DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio</title>
+<style>
+    body{
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: rgb(36, 36, 36);
+    }
+
+    header{
+        background-color: rgb(36, 36, 36);
+        text-align: center;
+        padding: 20;
+    }
+    h1 {
+            text-align: center;
+            color: #c0e1ff;
+        }
+        h2 {
+            color: #ffffff;
+        }
+        h3 {
+            color: #ffffff;
+        }
+    </style>
+    </head>
+    <body>
+        <h1>Portifólio de samuel <br>
+        <img src="https://64.media.tumblr.com/55afb128fb8183dfc0749bd20f8a2e4e/tumblr_n8bi03jX3m1tnmjdso6_1280.png" width="700" height="360" ></h1>
+
+        <ul>
+        <h2><li>Apresentação</li></h2>
+<h3>Olá, sou Samuel Santos, estudante do SESI/SENAI em Informática para Internet, pretendo seguir na faculdade de teatro nos próximos anos, ja participei da oficinas de teatro e fiz uma peça do SESI</h3>
+        <br>
+        <h2><li>Contatos</li></h2>
+        <h3>samuel.s.oliveira6@ba.estudante.senai.br</h3>
+        <br>
+        <h2><li>Habilidades</li></h2>
+        <ol><h3><li>Gerenciamento de projetos</li><li>Resolução de problemas</li><li>Habilidades interpessoais/em grupo</li><li>Domínio do pacote Office</li><li>Desenvoltura com o público</li><li>Experiência com a língua inglesa</li></h3></ol>
+        </ul>
